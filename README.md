@@ -1,1 +1,1 @@
-# Dynamically Loaded Orleans Grains and Web APIs
+# Dynamically loaded Orleans grains and web APIs
